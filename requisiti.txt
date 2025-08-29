@@ -1,4 +1,4 @@
 pytesseract
+PyMuPDF
 pdf2image
-reportlab
 Pillow
