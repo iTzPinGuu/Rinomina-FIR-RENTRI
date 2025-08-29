@@ -5,7 +5,7 @@ Ciao! 👋 Questa repo ti permette di convertire PDF in immagini e usare l'OCR (
 ## Come partire 🚀
 
 Scarica le dipendenze con:
-pip install -r requirements.txt
+pip install -r requisiti.txt
 
 text
 
