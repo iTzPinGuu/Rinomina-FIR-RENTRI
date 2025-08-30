@@ -33,3 +33,6 @@ sudo apt install tesseract-ocr
 text
 
 Happy hacking! 🚦🧠
+
+
+test_vscode
